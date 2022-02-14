@@ -1,6 +1,6 @@
 # FireCracker - Diabetic Risk Predictor
 
-In this project we are trying to predict Diabetic based on Risk Factors of females of age 21 and above.We use Kaggle Database.
+In this project we are trying to predict Diabetic based on Risk Factors of females of age 21 and above. We are using data from https://www.kaggle.com/mathchi/diabetes-data-set.
 
 ## Team Members
 
