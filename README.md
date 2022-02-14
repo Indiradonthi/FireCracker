@@ -11,6 +11,8 @@ In this project we are trying to predict Diabetic based on Risk Factors of femal
 
 ## Github
 
+https://github.com/Indiradonthi/FireCracker/blob/main/README.md
+
 ## Environment
 
 - Python
